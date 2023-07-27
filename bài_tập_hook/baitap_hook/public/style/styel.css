@@ -1,0 +1,13 @@
+#container{
+    display: flex;
+}
+.frm-sv table, th, td {
+    border:1px solid black;
+  }
+.frm-thontin form{
+ border: 1px solid black;
+ margin-left: 50px;
+ width: 300px;
+}
+
+
